@@ -1,0 +1,360 @@
+[
+ {
+  "body": "My hope for you is that you someday find the end of your sentence",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm having an introvert party and you're all not invited.",
+  "tags": [
+   "attitude",
+   "friendship",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "It's so simple to be wise. Just think of something stupid to say and then don't say it.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "I am probably single....because i didnt forward those chain messages in 2008",
+  "tags": [
+   "love",
+   "stupid"
+  ]
+ },
+ {
+  "body": "We've heard that ignorance of maths is growing geometrically, whatever that means.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Women sometimes make fools of men, but most guys are the do-it-yourself type.",
+  "tags": [
+   "men",
+   "stupid",
+   "women"
+  ]
+ },
+ {
+  "body": "Hi, Can I domesticate you?",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "We must pay for the mistakes of our youth… at the drugstore.",
+  "tags": [
+   "attitude",
+   "mistake",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why can't Jesus play hockey? A: He keeps getting nailed to the boards.",
+  "tags": [
+   "christian",
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "If I buy a soccer ball, will you kick it with me?",
+  "tags": [
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I don't know what makes you so stupid, but it really works.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Your kid may be an honors student, but you're still an idiot.",
+  "tags": [
+   "kids",
+   "stupid"
+  ]
+ },
+ {
+  "body": "What do you call a fly buzzing inside a blonde's head? A Space Invader.",
+  "tags": [
+   "blonde",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I hate when I'm singing along to the Beastie Boys and they mess up the lyrics.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "There is no &quot;me&quot; in team. No, wait, yes there is!",
+  "tags": [
+   "attitude",
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "We have enough gun control. What we need is idiot control.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "You can't be a real country unless you have a BEER and an airline - it helps if you have some kind of a football team, or some nuclear weapons, but at the very least you need a BEER.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm not saying I hate you, but I would unplug your life support to charge my phone.",
+  "tags": [
+   "attitude",
+   "hate",
+   "life",
+   "rude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I just let my mind wander, and it didn't come back.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "If it ain't broke, I haven't borrowed it yet.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I don't suffer from insanity. I enjoy every minute of it.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "When I look into your eyes, I see straight through to the back of your head.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Ready for the only way to enjoy Instagram? Follow zero people. Follow every dog.",
+  "tags": [
+   "IT",
+   "stupid"
+  ]
+ },
+ {
+  "body": "You have the right to remain silent because whatever you say will probably be stupid anyway.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I know that there are people who don't love their fellow man – I hate those people.",
+  "tags": [
+   "hate",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I tried to hang myself with a bungee chord. I kept almost dying",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Join the Army, meet interesting people, and kill them.",
+  "tags": [
+   "attitude",
+   "life",
+   "people",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why do the Scottish wear kilts? Because a sheep can hear a zipper from like a mile away.",
+  "tags": [
+   "retirement",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm selling a parachute – just as new, used only one time, didn't open once.",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "‘Who the hell allowed me to be born in this stupid head?' a Thought said and killed herself…",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I went to a peanut factory last week. It was nuts!",
+  "tags": [
+   "food",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I hate people who use big words just to make themselves look perspicacious.",
+  "tags": [
+   "hate",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "They call me the cat whisperer, cause I know exactly what the pussy needs.",
+  "tags": [
+   "animal",
+   "flirty",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Im not saying I'm number one, uh sorry I lied I'm number one two three four and five.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Are your other donkeys jealous because that's one fine ass",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "*Puts down phone* OH MY GOD I HAVE ANOTHER HAND!",
+  "tags": [
+   "IT",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm glad to see you're not letting your education get in the way of your ignorance.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Every day, man is making bigger and better fool-proof things, and every day, nature is making bigger and better fools. So far, I think nature is winning.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "My ex-girlfriend told me nothing shocks her anymore so I switched her digital scale from Lbs to Kg.",
+  "tags": [
+   "fat",
+   "stupid",
+   "women"
+  ]
+ },
+ {
+  "body": "Did you hear about the dyslexic Satanist? He sold his soul to Santa.",
+  "tags": [
+   "Christmas",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Accidentally pooped my pants in the elevator. I'm taking this shit to a whole new level.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "HOW DO I TURN OFF CAPS LOCK? I ACCIDENTALLY TURNED IT ON YESTERDAY AND I DON'T KNOW HOW TO TURN IT BACK OFF. ALL MY FRIENDS ARE MAD BECAUSE THEY THINK I AM SHOUTING AT THEM OVER INTERNET. PLEASE HELP!!!",
+  "tags": [
+   "IT",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Sometimes, when I close my eyes, I... can't see.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Thanks honey for rolling over at 3am and telling me I should get some sleep.    In my insomnia stupor that hadn't crossed my mind.",
+  "tags": [
+   "marriage",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Stupidity is not a crime so you are free to go.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "\"Were any famous men born on your birthday?\" \"No, only little babies.\"",
+  "tags": [
+   "birthday",
+   "stupid"
+  ]
+ },
+ {
+  "body": "You do realize makeup isn't going to fix your stupidity?",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why, yes, I am dressed for the weather.I am wearing a house.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "You have to be flexible to work here. On many occasions, you'll be asked to bend over and grab your ankles.",
+  "tags": [
+   "attitude",
+   "stupid",
+   "work"
+  ]
+ },
+ {
+  "body": "I may be dumb, but I'm not stupid.",
+  "tags": [
+   "sport",
+   "stupid"
+  ]
+ }
+]
