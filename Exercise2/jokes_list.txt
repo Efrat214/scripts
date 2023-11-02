@@ -1,0 +1,368 @@
+[
+ {
+  "body": "You do realize makeup isn't going to fix your stupidity?",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "We must pay for the mistakes of our youth… at the drugstore.",
+  "tags": [
+   "attitude",
+   "mistake",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I come from a stupid family. During the civil war my great uncle fought for the West.",
+  "tags": [
+   "family",
+   "retirement",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Everyone has the right to be stupid, but you are abusing the privilege!",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why can't Jesus play hockey? A: He keeps getting nailed to the boards.",
+  "tags": [
+   "christian",
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why, yes, I am dressed for the weather.I am wearing a house.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Every day, man is making bigger and better fool-proof things, and every day, nature is making bigger and better fools. So far, I think nature is winning.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Artificial intelligence is no match for natural stupidity.",
+  "tags": [
+   "intelligence",
+   "stupid"
+  ]
+ },
+ {
+  "body": "My ex-girlfriend told me nothing shocks her anymore so I switched her digital scale from Lbs to Kg.",
+  "tags": [
+   "fat",
+   "stupid",
+   "women"
+  ]
+ },
+ {
+  "body": "I don't suffer from insanity. I enjoy every minute of it.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "When I was born, the doctor came out to the waiting room and said to my father, &quot;I'm very sorry. We did everything we could. But he pulled through.&quot;",
+  "tags": [
+   "doctor",
+   "insults",
+   "kids",
+   "stupid"
+  ]
+ },
+ {
+  "body": "WHY GOD? WHY ONLY ME? WHY YOU ARE DOING THIS TO ME... Didn't we had a deal that I never get old :'(",
+  "tags": [
+   "beauty",
+   "God",
+   "stupid"
+  ]
+ },
+ {
+  "body": "You have the right to remain silent because whatever you say will probably be stupid anyway.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Your kid may be an honors student, but you're still an idiot.",
+  "tags": [
+   "kids",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Your pussy is in more danger than a seal during Shark Week.",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Why is it good to have a blonde passenger? You can park in the handicap zone.",
+  "tags": [
+   "blonde",
+   "stupid"
+  ]
+ },
+ {
+  "body": "‘Who the hell allowed me to be born in this stupid head?' a Thought said and killed herself…",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Insanity is defined as doing the same thing over and over again, expecting different results.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "You're never too old to learn something stupid.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Thanks for explaining the word &quot;many&quot; to me, it means a lot.",
+  "tags": [
+   "intelligence",
+   "mistake",
+   "stupid"
+  ]
+ },
+ {
+  "body": "He always finds himself lost in thought; it's unfamiliar territory.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Hey baby, there's an OverflowException in my pants, care to handle it for me?",
+  "tags": [
+   "flirty",
+   "IT",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Do you know how much a polar bear weighs? (no) me neither but enough to break the ice, hi my name is .....",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "My hope for you is that you someday find the end of your sentence",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Did you hear about the dyslexic Satanist? He sold his soul to Santa.",
+  "tags": [
+   "Christmas",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I don't know what makes you so stupid, but it really works.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm not saying I hate you, but I would unplug your life support to charge my phone.",
+  "tags": [
+   "attitude",
+   "hate",
+   "life",
+   "rude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "What's the difference between roast beef and pea soup? Anyone can roast beef.",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm having an introvert party and you're all not invited.",
+  "tags": [
+   "attitude",
+   "friendship",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "They call me the cat whisperer, cause I know exactly what the pussy needs.",
+  "tags": [
+   "animal",
+   "flirty",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I used to be in a band, we were called 'lost dog'. You probably saw our posters.",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Drink coffee! Do stupid things faster with more energy!",
+  "tags": [
+   "life",
+   "stupid"
+  ]
+ },
+ {
+  "body": "How does a farmer count cows? with a cow-calculator.",
+  "tags": [
+   "animal",
+   "intelligence",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I hate people who use big words just to make themselves look perspicacious.",
+  "tags": [
+   "hate",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Lets play railroad I'll be the train and ur the tunnel",
+  "tags": [
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Join the Army, meet interesting people, and kill them.",
+  "tags": [
+   "attitude",
+   "life",
+   "people",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I hate when I'm singing along to the Beastie Boys and they mess up the lyrics.",
+  "tags": [
+   "attitude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "He who laughs last thinks slowest.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "Stop with the blind jokes ... I don´t see the point.",
+  "tags": [
+   "attitude",
+   "rude",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Are your other donkeys jealous because that's one fine ass",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I think my neighbor is stalking me as she's been googling my name on her computer. I saw it through my telescope last night.",
+  "tags": [
+   "IT",
+   "sarcastic",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Please don't eat me! I have a wife and kids... ... ...Eat them!",
+  "tags": [
+   "family",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Think of how stupid the average person is, and realize half of them are stupider than that.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "There is no &quot;me&quot; in team. No, wait, yes there is!",
+  "tags": [
+   "attitude",
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "Avoid arguments about the toilet seat...use the sink...",
+  "tags": [
+   "men",
+   "stupid"
+  ]
+ },
+ {
+  "body": "My IQ came back negative.",
+  "tags": [
+   "intelligence",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm looking at the serving size of Laughing Cow cheese and I see why the cow is laughing.",
+  "tags": [
+   "animal",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I may be dumb, but I'm not stupid.",
+  "tags": [
+   "sport",
+   "stupid"
+  ]
+ },
+ {
+  "body": "I just let my mind wander, and it didn't come back.",
+  "tags": [
+   "stupid"
+  ]
+ },
+ {
+  "body": "I'm glad to see you're not letting your education get in the way of your ignorance.",
+  "tags": [
+   "insults",
+   "stupid"
+  ]
+ }
+]
