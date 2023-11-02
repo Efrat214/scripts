@@ -9,9 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.3.1",
     "entoli": "^1.4.3",
+    "env-var": "^7.4.1",
     "inquirer": "^9.2.11",
     "inquirer-autocomplete-prompt": "^3.0.1",
     "inquirer-interrupted-prompt": "^3.0.0",
